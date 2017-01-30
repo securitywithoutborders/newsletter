@@ -1,10 +1,16 @@
-# Newsletter #[NUMBER]
+# Newsletter #1
 
-Welcome to the [NUMBER in letters] newsletter from Security Without Borders (SWB). This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
+Welcome to the first newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
+
+> **Security Tip**: If you cross borders or you participate in protests, you might get your phone seized. You should use a strong  - at least 6-digits long - PIN code, and turn the phone off, especially if you use TouchID or other biometric locking. If you are compelled to unlock it, contact a lawyer.
+
+
 
 ## News from Security Without Borders
 
 ## Security Alerts
+
+## Informative Reading
 
 ## Tools & Resources
 
