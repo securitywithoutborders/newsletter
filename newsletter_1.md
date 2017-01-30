@@ -40,6 +40,6 @@ This newsletter is edited collaboratively by the larger Security Without Borders
 
 ---
 
-Preferences: [LINK_PREFERENCES]
-Unsubscribe: [LINK_UNSUBSCRIBE]
+Preferences: [LINK_PREFERENCES]  
+Unsubscribe: [LINK_UNSUBSCRIBE]  
 View this email in your browser: [LINK_BROWSER]
