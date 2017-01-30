@@ -43,9 +43,9 @@ Some recent changes in Firefox mean that it is possible you see warnings about c
 
 * *Joshua Foust* published a good blog post detailing [how he successfully identified an attempted **phishing attack**](http://joshuafoust.com/how-to-spot-a-phishing-attack/). Phishing (an attack with the intent of stealing online credentials by mimicking login pages) remains one of the most common techniques employed by attackers all over the world. Using [two-factor-authentication](https://ssd.eff.org/en/module/how-enable-two-factor-authentication) and training an eye for recognizing these attacks, can go a very long way.
 
-* *The Grugq* published a good guide on [**how to securely operate dissident Twitter accounts**](https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0). Many activists use Twitter as an important outreach and advocacy tool, often anonymously or pseudonymously, and are consequently often victims of attacks. Knowing what type of threats you face and how to protect youself online is becoming critical.
+* *The Grugq* published a good guide on [**how to securely operate dissident Twitter accounts**](https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0). Many activists use Twitter as an important outreach and advocacy tool, often anonymously or pseudonymously, and are consequently often victims of attacks. Knowing what type of threats you face and how to protect youself online is becoming critical. This guide is a great start.
 
-* An [extensive list of security resources](https://medium.com/tinfoil-press/current-digital-security-resources-5c88ba40ce5c#.khzgl4l92) for journalist, lawyers, activists and other groups has been published at the beginning of the year. The list is quite extensive but if you are aiming at improving your security level you will certainly find helpful information there.
+* An [extensive list of security resources](https://medium.com/tinfoil-press/current-digital-security-resources-5c88ba40ce5c#.khzgl4l92) for journalists, lawyers, activists and other groups has been published at the beginning of the year. The list is quite extensive but if you are aiming at improving your security level you will certainly find helpful information there.
 
 
 ## Upcoming Events
