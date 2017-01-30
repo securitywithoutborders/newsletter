@@ -55,7 +55,7 @@ Some recent changes in Firefox mean that it is possible you see warnings about c
 
 ## People who contributed to this newsletter
 
-This newsletter is edited collaboratively by the larger Security Without Borders community. These are some of the people who helped with this issue: *Agent X*, *Jens Kubieziel*, *Peter Tonoli*, *Martin "Mrtn" Ingesen*, *Michael Helwig (@c0dmtr1x)*, *Martijn Grooten*. Produced by *Claudio "nex" Guarnieri*.
+This newsletter is edited collaboratively by the larger Security Without Borders community. These are some of the people who helped with this issue: *Agent X*, *Jens Kubieziel*, *Peter Tonoli*, *Martin "Mrtn" Ingesen*, *Michael Helwig (@c0dmtr1x)*, *Martijn Grooten*. Curated by *Claudio "nex" Guarnieri*.
 
 ---
 
