@@ -6,9 +6,13 @@ Welcome to the first newsletter from Security Without Borders. This is a somewha
 
 This newsletter is an experiment. Please let us know if you enjoy it and suggest us any content you would like to see here either via [Twitter](https://twitter.com/swborders) or via [email](mailto:info@securitywithoutborders.org).
 
+
 ## News from Security w/o Borders
 
-We are working on...
+Starting an initiative like Security Without Borders takes a lot of effort and time.  This past month we've been primarily working on stabilizing the group and setting up the necessary infrastructure to properly organize our activities. We have already started carrying out a number of assistance efforts, mostly penetration testing.
+
+The next step will be to initiate an outreach campaign to make sure the right people and organizations learn about who we are, what we can do, and how they can best leverage us. There are several other initiatives who are doing great work in civil society. We are looking forward to cooperate closely to as many as possible, and provide the specialized security expertise that we are aggregating. We have some amazing people on board who are seasoned and renowned security professionals. If you are an NGO and are interested in working with us, please [get in contact with us](mailto:info@securitywithoutborders.org).
+
 
 ## Security Alerts
 
@@ -22,9 +26,10 @@ In the month of January we have seen a good number of security vulnerabilities i
 
 * **Flash Player and Adobe Reader**: In January Adobe has released multiple updates to fix critical vulnerabilities in Flash Player and Adobe Reader, including their browser plugins and extensions. Flash Player and Adobe Reader have become mostly superfluous with the progress of mainstream browsers (particularly Google Chrome, which to this day offers the better security protections) and with the advent of modern web technology. Quite frankly, we recommend uninstalling both.
 
+
 ## Cyberpolitics
 
-* **China**: [China tightens its restrictions on VPN use by declaring unauthorized VPN services illegal] (http://www.scmp.com/news/china/policies-politics/article/2064587/chinas-move-clean-vpns-and-strengthen-great-firewall). According to BBC, [the block includes, among others, three popular VPN providers](http://www.bbc.com/news/technology-30982198) (Astrill, StrongVPN and Golden Frog). Major VPN providers are working on a solution. The ban continues until  March 31, 2018.
+* **China**: [China tightens its restrictions on VPN use by declaring unauthorized VPN services illegal](http://www.scmp.com/news/china/policies-politics/article/2064587/chinas-move-clean-vpns-and-strengthen-great-firewall). According to BBC, [the block includes, among others, three popular VPN providers](http://www.bbc.com/news/technology-30982198) (Astrill, StrongVPN and Golden Frog). Major VPN providers are working on a solution. The ban continues until  March 31, 2018.
 
 * **USA**: On January 25th, President Trump signed an executive order for ["Enhancing Public Safety in the Interior of the United States"](https://www.whitehouse.gov/the-press-office/2017/01/25/presidential-executive-order-enhancing-public-safety-interior-united) that denies privacy protection to non-US citizens "to the extent consistent with applicable law" (Sec. 14). The concrete implications of this executive order and whether it affects the Privacy Shield agreement are still [a matter of debate](https://www.lawfareblog.com/interior-security-executive-order-privacy-act-and-privacy-shield).
 
@@ -35,13 +40,14 @@ In the month of January we have seen a good number of security vulnerabilities i
 
 * An [extensive list of security ressources](https://medium.com/tinfoil-press/current-digital-security-resources-5c88ba40ce5c#.khzgl4l92) for journalist, lawyers, activists and other groups has been published at the beginning of the year. The list is quite extensive but if you are aiming at improving your security level you will certainly find helpful information there.
 
+
 ## Tools & Resources
+
 
 ## Upcoming Events
 
-* Jan 1st: Event, Place
-* Jan 1st: Event, Place
-* Jan 1st: Event, Place
+* 6-10 March: [Internet Freedom Festival](https://internetfreedomfestival.org/), Valencia, Spain
+* 29-31 March: [RightsCon](https://www.rightscon.org/), Brussels, Belgium
 
 ## People who contributed to this newsletter
 
