@@ -2,7 +2,11 @@
 
 Welcome to the first newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
 
-> **Security Tip**: If you cross borders or you participate in protests, you might get your phone seized. Make sure [it is encrypted](https://ssd.eff.org/en/module/how-encrypt-your-iphone). You should use a strong  - at least 6-digits long - PIN code, and turn the phone off, especially if you use TouchID or other biometric locking. In the case you might get compelled to unlock your phone, make sure you familiarize yourself with the local laws, and you have the number of a lawyer written on a piece of paper in your wallet.
+> **Security Tip**: If you cross borders or you participate in protests, you might get your phone seized. Make sure [it is encrypted](https://ssd.eff.org/en/module/how-encrypt-your-iphone). You should use a strong  - at least 6-digits long - PIN code, and turn the phone off, especially if you use TouchID or other biometric locking. 
+
+Biometric locking should not be considered an appropriate form of security on it's own if your device is expected to be seized by a third party.
+
+In the case you might get compelled to unlock your phone, make sure you familiarize yourself with the local laws, and you have the number of a lawyer written on a piece of paper in your wallet.
 
 This newsletter is an experiment. Please let us know if you enjoy it and suggest us any content you would like to see here either via [Twitter](https://twitter.com/swborders) or via [email](mailto:info@securitywithoutborders.org).
 
