@@ -45,6 +45,10 @@ Some recent changes in Firefox mean that it is possible you see warnings about c
 
 - An [extensive list of security resources](https://medium.com/tinfoil-press/current-digital-security-resources-5c88ba40ce5c#.khzgl4l92) for journalists, lawyers, activists and other groups has been published at the beginning of the year. The list is quite extensive but if you are aiming at improving your security level you will certainly find helpful information there.
 
+## Security Without Borders
+In the last months SWB has been growing steadily, both in the main group and the regional groups distributed around the globe.
+- With a total of more than X people participating, there are a lot of ongoing meet ups and projects.
+- We successfully completed our firsts official penetration tests in coordination with some NGOs, making a real difference in their security presence on the Internet.
 
 ## Upcoming Events
 
