@@ -27,7 +27,6 @@ Some recent changes in Firefox mean that it is possible you see warnings about c
 
 - **Flash Player and Adobe Reader**: In January Adobe has released multiple updates to fix critical vulnerabilities in Flash Player and Adobe Reader, including their browser plugins and extensions. Flash Player and Adobe Reader have become mostly superfluous with the progress of mainstream browsers (particularly Google Chrome, which to this day offers the better security protections) and with the advent of modern web technology. Quite frankly, we recommend uninstalling both.
 
-
 ## Cyberpolitics
 
 - **China**: [China tightens its restrictions on VPN use by declaring unauthorized VPN services illegal](http://www.scmp.com/news/china/policies-politics/article/2064587/chinas-move-clean-vpns-and-strengthen-great-firewall). According to BBC, [the block includes, among others, three popular VPN providers](http://www.bbc.com/news/technology-30982198) (Astrill, StrongVPN and Golden Frog). Major VPN providers are working on a solution. The ban continues until  March 31, 2018.
