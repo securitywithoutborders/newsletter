@@ -46,7 +46,7 @@ This issue of the Security Without Borders newsletter comes a bit later than whe
 
 ## People who contributed to this newsletter
 
-This newsletter is edited collaboratively by the larger Security Without Borders community. These are some of the people who helped with this issue: _Martijn Grooten_. Curated by _Claudio "nex" Guarnieri_.
+This newsletter is edited collaboratively by the larger Security Without Borders community. These are some of the people who helped with this issue: [Martijn Grooten](https://twitter.com/martijn_grooten). Curated by [Claudio "nex" Guarnieri](https://twitter.com/botherder).
 
 ---
 Preferences: [LINK_PREFERENCES]  
