@@ -9,9 +9,16 @@ This newsletter is an experiment. Please let us know if you enjoy it and suggest
 
 ## Editorial
 
-This issue of the Security Without Borders newsletter comes a bit later than when originally expected, with fewer security alerts, but rich with informative reading as numerous reports were published in the last weeks that are relevant to security threats to civil society.
+This issue of the Security Without Borders newsletter comes a bit later than when originally expected, with no critical security alerts, but rich with informative reading as numerous reports were published in the last weeks that are relevant to security threats to civil society.
 
-...
+This second issue has a somewhat unintended focus on phishing attacks, mainly due to the coincidental high number of reports related to such attacks published in the last few weeks. Phishig is a type of attack designed to steal credentials of online accounts (most commonly Gmail, but at times also Facebook, Twitter, Apple and more) by luring victims into typing their password in a illegitimate clone of the original service. The reports published recently demonstrate that the attention to details and effort invested by attackers using phishing is increasingly remarkable. Phishing is a very present and concerning issue, especially widely used against journalists and activist communities.
+
+This edition's Tools section is also rich of new (and old) releases, with a continued focus on solutions to minimize the risk of phishing. We're also announcing the _beta_ release of a little utility of our own production, [Hardentools](https://github.com/securitywithoutborders/hardentools), which we invite you to check out. Among the other highlights you'll find anti-phishing browser extensions and a censorship detection mobile app!
+
+Enjoy the reading and stay safe.
+
+    Claudio "nex" Guarnieri
+    Security Without Borders
 
 
 ## Informative Reading
@@ -28,25 +35,32 @@ This issue of the Security Without Borders newsletter comes a bit later than whe
 
 - **Pseudonymous Signal**. The Signal messaging app is widely praised for its security and privacy properties. Using it should be sufficient for almost everyone who needs to care about their online security. However, a very small group of users could have reasons to be worried about the (small amount of) Metadata stored on Signal's servers. For those users, security researcher 'x0rz' published [https://blog.0day.rocks/operational-signal-d41d2c457d8d](a simple guide on how to use Tor to use Signal pseudonymously).
 
+- **Running an anonymous Twitter account**. Micah Lee from The Intercept published an interesting guide, mainly targeted at American readers tho, on [how to create and operate a Twitter account anonymously using Tor and a burner phone](https://theintercept.com/2017/02/20/how-to-run-a-rogue-government-twitter-account-with-an-anonymous-email-address-and-a-burner-phone/). Operating anonymously online can be quite difficult, especially when done in a way that attracts attention. In the past we have seen numerous cases of [attacks designed to deanonymize anonymous or pseudonymous activists on Twitter](https://bahrainwatch.org/ipspy/). Check out again the grugq's guide on [how to run a dissident Twitter account](https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0).
 
-## Tools 
 
-- ooniprobe
+## Tools
 
-- security umbrella
+- [Hardentools](https://github.com/securitywithoutborders/hardentools) is a little Windows utility developed by Security Without Borders designed to make some simple modifications to the configuration of your Windows computer to reduce some of the attack surface that is commonly used by attackers, particularly targeting activists and dissidents. A lot of the attacks we observe use very simple tricks leveraging dangerous features of Windows and other mainstream applications (for example Office documents with Macros) to manage to execute malicious code. Claudio explained this in his blog post [On the Banality of Attacks and on Mindful Engineering](https://medium.com/@botherder/on-the-banality-of-attacks-and-on-mindful-engineering-fc0a50e5cff5). Most of these features are generally unused by most people and especially for individuals at risk they represent a liability rather than a functionality. Hardentools disables a lot of these features. Bear in mind, after running Hardentools you won't be able to do complex calculations with Microsoft Office Excel or use the Command-line terminal, but those are pretty much the only considerable "downsides" of having a safer Windows environment. Before deciding to use it, make sure you read the [README](https://github.com/securitywithoutborders/hardentools/blob/master/README.md) and understand that this is an **experimental beta** release.
 
-- ...
+- [Blockade](https://blockade.io) is an interesting Chrome extension designed to block malicious or suspicious sites blacklisted by data feeds that are configurable. We are happy to announce that Security Without Borders is now running a data feed for Blockade, meaning that your browser will receive both the public and private block lists we compile from the research and investigations we continuously conduct. While this does by no means block any attempt of phishing or compromise, it might very well at least block _some_. In order to use our data feed with Blockade, after having read the instructions and installed the extension, you need to configure it to use the cloud node at **https://blockade.securitywithoutborders.org**. We made a [short video showing how to do it](https://vimeo.com/205097462).
+
+- [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=en) is yet another interesting Chrome extension developed by Google, which should alert you whenever you might have fallen victim of a phishing attack attempting to steal your Google Account credentials. We have not thoroughly tested this yet, but it might be something worth looking into.
+
+- [Ooniprobe](https://ooni.torproject.org/post/ooni-mobile-app/) is a mobile app developed by the Open Observatory for Network Interference and is a simple utility that allows you to run network measurements through your phone to identify whether your current Internet connection implements any level of censorship. If you are interested in contributing useful data to the ongoing struggle against pervasive censorship, this might be something for you to do. Please notice, running Ooniprobe has [some risks involved](https://ooni.torproject.org/about/risks/); make sure you understand them before proceeding.
+
+- [Security Umbrella](https://secfirst.org/) is a mobile app developed by Security First that combines a lot of useful security and safety advice, dealing with both digital as well physical threats. It's a very useful resource to have at hand, and you should definitely check it out.
 
 
 ## Upcoming Events
 
 - 6-10 March: [Internet Freedom Festival](https://internetfreedomfestival.org/), Valencia, Spain
 - 29-31 March: [RightsCon](https://www.rightscon.org/), Brussels, Belgium
-
+- 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
+- 8-10 May: [re:publica](https://re-publica.de), Berlin, Germany
 
 ## People who contributed to this newsletter
 
-This newsletter is edited collaboratively by the larger Security Without Borders community. These are some of the people who helped with this issue: [Martijn Grooten](https://twitter.com/martijn_grooten). Curated by [Claudio "nex" Guarnieri](https://twitter.com/botherder).
+This newsletter is edited collaboratively by the larger Security Without Borders community. These are some of the people who helped with this issue: [Martijn Grooten](https://twitter.com/martijn_grooten), adonis28850 and [others](https://github.com/securitywithoutborders/newsletter/issues/8). Curated by [Claudio "nex" Guarnieri](https://twitter.com/botherder).
 
 ---
 Preferences: [LINK_PREFERENCES]  
