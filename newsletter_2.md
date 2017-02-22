@@ -15,11 +15,12 @@ This second issue has a somewhat unintended focus on phishing attacks, mainly du
 
 This edition's Tools section is also rich of new (and old) releases, with a continued focus on solutions to minimize the risk of phishing. We're also announcing the _beta_ release of a little utility of our own production, [Hardentools](https://github.com/securitywithoutborders/hardentools), which we invite you to check out. Among the other highlights you'll find anti-phishing browser extensions and a censorship detection mobile app!
 
+Thanks to all those who helped compile this newsletter, Martijn in particular.
+
 Enjoy the reading and stay safe.
 
     Claudio "nex" Guarnieri
     Security Without Borders
-
 
 ## Informative Reading
 
