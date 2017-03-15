@@ -30,6 +30,12 @@ For people who want to volunteer, a [dedicated form](https://securitywithoutbord
 
 - On Wednesday 15 March, a large number of Twitter accounts (including those of Amnesty International and Unicef) were sending out tweets that appeared to support the Turkish government. It is easy to overstate the importance of this and the 'hack' was likely the action of some trolls rather than government-sponsored hackers, but there is an important lesson in it for everyone using Twitter: the tweets were posted through a third-party app that had permission to post on the users' behalf. Such apps can be very useful, but unless they are very important, you would be advised to [revoke access](https://twitter.com/settings/applications).
 
+## Tools
+
+- We remind everyone of [Hardentools](https://github.com/securitywithoutborders/hardentools), a small Windows tool developed by Security Without Borders. Hardentools makes some simple modifications to your Windows computer that greatly reduce the attack surface while for the average user barely compromising on usability. You can read Claudio's [motivation](https://medium.com/@botherder/on-the-banality-of-attacks-and-on-mindful-engineering-fc0a50e5cff5#.v8ye3lc1s) for writing the tool, but before using it should definitely read the [README](https://github.com/securitywithoutborders/hardentools/blob/master/README.md) and understand that this is an **experimental beta** release.
+
+- We also remind everyone of [Blockade](https://blockade.io/), a Google Chrome browser extension designed to block malicious or suspicious sites. For this is can use data feeds and Security Without Borders is running such a feed. As with all security software and tools, using Blockade does not make you 100% secure and is not a replacement for good security practice, but it is likely to block some attack attempts. We made a [short video](https://vimeo.com/205097462) that shows how to use it and to use our cloud node at https://blockade.securitywithoutborders.org/.
+
 ## Upcoming Events
 
 - 20-24 March: [Troopers](https://www.troopers.de/troopers17/), Heidelberg, Germany
