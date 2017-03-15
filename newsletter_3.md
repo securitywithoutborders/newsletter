@@ -1,6 +1,6 @@
 # Newsletter 3
 
-Welcome to the second newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
+Welcome to the third newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
 
 > **Security Tip**: The 'green padlock' shown next to HTTPS URLs in a browser indicates that the connection is encrypted. *It does not make any claim about whether the site is what it claims to be*; in fact, many fake and/or malicious websites use HTTPS and thus show the green padlock. Never use the green padlock on its own as a proof that the site safe to enter personal details; always check the URL as well, in particular the part that most web browsers display in a slightly darker colour. In case of doubt, don't enter any details!
 
@@ -9,6 +9,7 @@ This newsletter is an experiment. Please let us know if you enjoy it and suggest
 ## News from Security Without Borders
 
 Since going live a few months ago, we have received many requests for assistance and many offers to volunteer. We are currently working hard on the framework that allows us to assist as many people as possible, but while we may appear busy, please don't hesitate to [get in contact](mailto:info@securitywithoutborders.org).
+For people who want to volunteer, a [dedicated form](https://securitywithoutborders.org/volunteer.html) was created.
 
 ## Security Alerts
 
@@ -27,6 +28,8 @@ Since going live a few months ago, we have received many requests for assistance
 
 ## Upcoming Events
 
+- 20-24 March: [Troopers](https://www.troopers.de/troopers17/), Heidelberg, Germany
+- 21 March 19:00 [Meetup with SWB interested people at Troopers](https://wiki.securitywithoutborders.org/index.php?title=Rhine-Neckar)
 - 29-31 March: [RightsCon](https://www.rightscon.org/), Brussels, Belgium
 - 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
 - 8-10 May: [re:publica](https://re-publica.de), Berlin, Germany
