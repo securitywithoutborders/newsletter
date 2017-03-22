@@ -1,0 +1,1 @@
+Welcome to the third newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
