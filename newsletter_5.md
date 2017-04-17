@@ -1,6 +1,6 @@
 Welcome to the fifth newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
 
-> **Security Tip**: 
+> **Security Tip**: when you get an email from a service that you use, such as Google or Facebook, asking you to login for one reason or another, teach yourself not to follow the link on the email, but access the site through its URL (or a bookmark). Whatever it was that required you to login, you should be able to find on the website as well; if not, it may be a phishing attempt. 
 
 This newsletter is an experiment. Please let us know if you enjoy it and suggest us any content you would like to see here either via [Twitter](https://twitter.com/swborders) or via [email](mailto:info@securitywithoutborders.org).
 
@@ -27,9 +27,6 @@ For people who want to volunteer, a [dedicated form](https://securitywithoutbord
 
 ## Upcoming Events
 
-- 20-24 March: [Troopers](https://www.troopers.de/troopers17/), Heidelberg, Germany
-- 21 March 19:00 [Meetup with SWB interested people at Troopers](https://wiki.securitywithoutborders.org/index.php?title=Rhine-Neckar)
-- 29-31 March: [RightsCon](https://www.rightscon.org/), Brussels, Belgium
 - 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
 - 8-10 May: [re:publica](https://re-publica.de), Berlin, Germany
 
