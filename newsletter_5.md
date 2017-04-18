@@ -25,10 +25,17 @@ For people who want to volunteer, a [dedicated form](https://securitywithoutbord
 
 - An unknown entity has published a **fake PGP encryption key** in the name of a [prominent Egyptian activist](https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys). PGP is an important tool to encrypt emails, but as with all network encryption technologies, it is of vital importance to make sure you are communicating with the right individual. Always use another channel, such as a common acquaintance or a social media profile that you know belongs to them, to verify someone's PGP key.
 
+- [Citizenlab](https://citizenlab.org/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/) looked at **censorship** on the popular Chinese WeChat and Weibo social networks, which not only includes the blocking of keywords, keyword combinations but also that of certain images. Such reports not only highlight the challenges faced by the human rights community in China, it could also help that same community find possible ways around the censorship.
+
+- Russian university lecturer and open source developer Dmitry Bogatov was [arrested](https://www.bleepingcomputer.com/news/government/its-probably-a-bad-idea-to-run-a-tor-exit-node-in-your-home-in-russia/), allegedly after his **tor exit node** was used to post online messages inciting to violent actions. In a [FAQ document](https://www.torproject.org/eff/tor-legal-faq.html.en) written by the Electronic Frontier Foundation and focusing on legal issues surrounding Tor in the United States, the Tor Project actually warns against the use of running exit nodes from home. Those who want to run an exit node are advised to look into the potential legal issues in country from which they want to run the node.
+
+- Vice Motherboard is running a [series of articles](https://motherboard.vice.com/en_us/topic/when-spies-come-home) on **spyware used by ordinary people**. Often sold as parental control apps and available for relatively little money, such mobile spyware is often used to spy on (ex-)partners, not seldom as part of an abusive relationship; sometimes with very tragic consequences. The series is worth a read and should serve as a reminder that the threat from those with phisical access to our devices should not be discounted, especially for those whose activities make them a likely target of spyware.
+
 ## Upcoming Events
 
 - 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
 - 8-10 May: [re:publica](https://re-publica.de), Berlin, Germany
+- 15-18 June: [Allied Media Conference](https://www.alliedmedia.org/amc), Detroit, MI, USA
 
 Preferences: [LINK_PREFERENCES]  
 Unsubscribe: [LINK_UNSUBSCRIBE]  
