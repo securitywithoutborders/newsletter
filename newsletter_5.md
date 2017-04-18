@@ -25,6 +25,10 @@ For people who want to volunteer, a [dedicated form](https://securitywithoutbord
 
 - An unknown entity has published a **fake PGP encryption key** in the name of a [prominent Egyptian activist](https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys). PGP is an important tool to encrypt emails, but as with all network encryption technologies, it is of vital importance to make sure you are communicating with the right individual. Always use another channel, such as a common acquaintance or a social media profile that you know belongs to them, to verify someone's PGP key.
 
+## Tools
+
+- [Security First](https://www.secfirst.org), just launched four free online digital security training courses - covering topics such as "Phishing, Malware and Social Engineering," "Secure Passwords and Encryption of Data" and "Secure Communications." Designed for beginners, the courses are available in English, Arabic and Farsi. Each topic has mix of videos, presentations, quizzes and further learning materials. They can be accessed on [Advocacy Assembly](https://advocacyassembly.org/en/partners/securityfirst/). 
+
 ## Upcoming Events
 
 - 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
