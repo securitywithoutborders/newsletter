@@ -31,6 +31,10 @@ For people who want to volunteer, a [dedicated form](https://securitywithoutbord
 
 - Vice Motherboard is running a [series of articles](https://motherboard.vice.com/en_us/topic/when-spies-come-home) on **spyware used by ordinary people**. Often sold as parental control apps and available for relatively little money, such mobile spyware is often used to spy on (ex-)partners, not seldom as part of an abusive relationship; sometimes with very tragic consequences. The series is worth a read and should serve as a reminder that the threat from those with phisical access to our devices should not be discounted, especially for those whose activities make them a likely target of spyware.
 
+## Tools
+
+- While there are many tools that could improve your online security, the biggest risk is often the end user, and security can often improved a great deal just by providing some basic training. Under the name **Security First**, Advocacy Assembly have put together a series of [short courses](https://advocacyassembly.org/en/partners/securityfirst/) to improve online safety for human rights defenders. The courses are free to use.
+
 ## Upcoming Events
 
 - 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
