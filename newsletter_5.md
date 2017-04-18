@@ -1,4 +1,4 @@
-Welcome to the fifth newsletter from Security Without Borders. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
+Welcome to the fifth newsletter from **Security Without Borders**. This is a somewhat regular newsletter covering recent cyber security issues, tools and events relevant for activists, dissidents, journalists and civil society at large.
 
 > **Security Tip**: when you get an email from a service that you use, such as Google or Facebook, asking you to login for one reason or another, teach yourself not to follow the link on the email, but access the site through its URL (or a bookmark). Whatever it was that required you to login, you should be able to find on the website as well; if not, it may be a phishing attempt. 
 
