@@ -4,7 +4,7 @@ Welcome to the sixth newsletter from **Security Without Borders**. This is a som
 
 ## New website!
 
-Today, we launched our new [website](https://www.securitywithoutborders.org/). On it you find how to help, learn about our [missions](https://www.securitywithoutborders.org/missions.html) and find our [blog](https://www.securitywithoutborders.org/blog.html) which includes past newsletters and transmissions. Speaking of which, we just published our Third Transmission!
+Today, we launched our new [website](https://www.securitywithoutborders.org/). On it you find how to help, learn about our [missions](https://www.securitywithoutborders.org/missions.html) and find our [blog](https://www.securitywithoutborders.org/blog.html) which includes past newsletters and transmissions. Speaking of which, we just published our [Third Transmission](https://medium.com/security-without-borders/transmission-3-92b3a94bf93f)!
 
 ## Security alerts
 
@@ -27,6 +27,8 @@ In the long report, Citizen Lab writes how academics, activists, journalists, an
 - At SWB, we are working on a number of projects related to '**Stalkerware**': mobile spyware that, even if not explicitly marketed for that purpose, is used by people in abusive relationships to spy on (ex-)partners. As part of a [series](https://motherboard.vice.com/en_us/topic/when-spies-come-home) on the subject, Vice Motherboard published an interesting article by activist, writer and OPSEC expert Elle Armageddon, which not only provides a good introduction into the subject, it also comes with some basic practical advice.
 
 - As you are reading this newsletter, it is likely that you have been converted already, but you may still want to [read](http://limn.it/what-is-to-be-hacked/) the **open letter to hackers** from SWB's Claudio, in which he calls for hackers to come and help civil society. If you know someone who is interested in doing good with their hacking skills, why not send them to Security Without Borders? Find out how to help on our [website](https://www.securitywithoutborders.org/volunteer.html).
+
+- Finally, for those of you who read German: Wired Germany [published](https://www.wired.de/collection/life/redhack-nex-security-without-borders-turkey-blocks-hacker-aktivisten) an **interview with Claudio** in which he discusses Security Without Borders.
 
 ## Upcoming Events
 
