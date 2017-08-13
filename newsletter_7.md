@@ -8,7 +8,7 @@ Welcome to the sixth newsletter from **Security Without Borders**. This is a som
 
 ## Upcoming Events
 
-- 22-29 Sept: [BornHack](https://bornhack.dk), Bornholm, Denmark
+- 22-29 Aug: [BornHack](https://bornhack.dk), Bornholm, Denmark
 
 Preferences: [LINK_PREFERENCES]  
 Unsubscribe: [LINK_UNSUBSCRIBE]  
