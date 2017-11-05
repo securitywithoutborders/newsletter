@@ -29,6 +29,10 @@ Security Without Borders is a community project, run entirely by volunteers. Not
 
 - In the previous newsletter, we mentioned a [series of articles](https://motherboard.vice.com/en_us/topic/when-spies-come-home) run by Vice Motherboard on 'Stalkerware': spyware targeted at ordinary people that is often used in abusive relationships. Security Without Borders is working on tools to detect such spyware, the first result of which are [two tools](https://ops.securitywithoutborders.org/flexispy/) written by Claudio that will **remove a FlexiSpy** infection from your Windows PC or Mac.
 
+## Tools
+
+- [Security First](https://www.secfirst.org), just launched four free online digital security training courses - covering topics such as "Phishing, Malware and Social Engineering," "Secure Passwords and Encryption of Data" and "Secure Communications." Designed for beginners, the courses are available in English, Arabic and Farsi. Each topic has mix of videos, presentations, quizzes and further learning materials. They can be accessed on [Advocacy Assembly](https://advocacyassembly.org/en/partners/securityfirst/). 
+
 ## Upcoming Events
 
 - 5-6 May: [CryptoRave](https://cryptorave.org), São Paulo, Brazil
