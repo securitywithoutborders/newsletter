@@ -19,7 +19,7 @@ Though this is fairly serious as vulnerabilities go, it cannot be exploited remo
 
 - The 2nd of November was the United Nations' [International Day to End Impunity for Crimes Against Journalists](https://en.unesco.org/endimpunity-2017). Journalists increasingly face digital threats and Citizen Lab, who have written various reports on such threats, [listed](https://citizenlab.ca/2017/11/international-end-impunity-crimes-journalists/) three separated cases of attacks against journalists and news organisations.
 
-- The political situation in Catalonia has hed to various kinds of **censorship by the Spanish government**, who have seized the domain used by the Catalan regional government and raided the offices of the .cat registrar. In a [blog post] (https://www.securitywithoutborders.org/blog/2017/09/27/catalonia.html), SWB strongly condemed this censorship.
+- The political situation in Catalonia has hed to various kinds of **censorship by the Spanish government**, who have seized the domain used by the Catalan regional government and raided the offices of the .cat registrar. In a [blog post](https://www.securitywithoutborders.org/blog/2017/09/27/catalonia.html), SWB strongly condemed this censorship.
 
 - Moderately good news from Turkey where the **Istanbul Ten**, whom we [wrote about](https://www.securitywithoutborders.org/blog/2017/07/25/istanbul10.html) previously, have been [released on bail](http://www.dw.com/en/german-activist-peter-steudtner-returns-from-turkey-on-bail/a-41113789). They are still awaiting trial though, while the Chair of Amnesty International Turkey, Taner Kılıç, [remains in prison](https://www.amnesty.org/en/latest/news/2017/10/amnesty-turkey-chair-kept-in-jail/).
 
