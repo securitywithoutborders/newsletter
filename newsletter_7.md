@@ -2,8 +2,8 @@ Welcome to the seventh newsletter from **Security Without Borders**. This is a s
 
 It has been some time since we sent a newsletter, but many things have been happening at SWB, even if most of them happened behind the scenes. We do intend to send these newsletters regularly again from now on.
 
-> **Security Tip** Uninstall Adobe's **Flash Player** from your computer (see this [HowTo](https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-windows.html) from Adobe), or at least remove the corresponding plugin from your browser.
-Though the security of Flash Player may have improved over the years, vulnerabilities in it continue to be regularly found and subsequently abuse to target users with malware. Moreover, fake Flash Player updates are often used as a lure in malware campaigns; if you don't run Flash Player, you can be certain such updates are fake. If you absolutely need to use Flash Player for a particular site or service, use a special device for it, or if that is not possible at least a decidated browser.
+> **Security Tip** Uninstall or disable Adobe's **Flash Player** from your computer (see this [HowTo](https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-windows.html) from Adobe), or at least remove the corresponding plugin from your browser.
+Though the security of Flash Player may have improved over the years, vulnerabilities in it continue to be regularly found and subsequently abuse to target users with malware. Moreover, fake Flash Player updates are often used as a lure in malware campaigns; if you don't run Flash Player, you can be certain such updates are fake. If you absolutely need to use Flash Player for a particular site or service, use a special device for it, or if that is not possible at least a decidated browser. At least for Firefox there is a [plugin to disable or reenable Flash on demand]<https://addons.mozilla.org/en-US/firefox/addon/flashdisable/>, you may find it helpful.
 
 ## Security alerts
 
