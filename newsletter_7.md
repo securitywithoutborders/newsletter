@@ -3,7 +3,7 @@ Welcome to the seventh newsletter from **Security Without Borders**. This is a s
 It has been some time since we sent a newsletter, but many things have been happening at SWB, even if most of them happened behind the scenes. We do intend to send these newsletters regularly again from now on.
 
 > **Security Tip** Uninstall Adobe's **Flash Player** from your computer (see this [HowTo](https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-windows.html) from Adobe), or at least remove the corresponding plugin from your browser.
-Though the security of Flash Player may have improved over the years, vulnerabilities in it continue to be regularly found and subsequently abuse to target users with malware. Moreover, fake Flash Player updates are often used as a lure in malware campaigns; if you don't run Flash Player, you can be certain such updates are fake. If you absolutely need to use Flash Player for a particular site or service, use a special device for it, or if that is not possible at least a decidated browser.
+Though the security of Flash Player may have improved over the years, vulnerabilities in it continue to be regularly found and subsequently abuse to target users with malware. Moreover, fake Flash Player updates are often used as a lure in malware campaigns; if you don't run Flash Player, you can be certain such updates are fake, no matter how convincing them mey seem. If you absolutely need to use Flash Player for a particular site or service, use a special device for it, or if that is not possible at least a decidated browser.
 
 ## Security alerts
 
@@ -19,11 +19,16 @@ Though this is fairly serious as vulnerabilities go, it cannot be exploited remo
 
 - The 2nd of November was the United Nations' [International Day to End Impunity for Crimes Against Journalists](https://en.unesco.org/endimpunity-2017). Journalists increasingly face digital threats and Citizen Lab, who have written various reports on such threats, [listed](https://citizenlab.ca/2017/11/international-end-impunity-crimes-journalists/) three separated cases of attacks against journalists and news organisations.
 
-- [something about the Istanbul ten]
+- The political situation in Catalonia has hed to various kinds of **censorship by the Spanish government**, who have seized the domain used by the Catalan regional government and raided the offices of the .cat registrar. In a [blog post] (https://www.securitywithoutborders.org/blog/2017/09/27/catalonia.html), SWB strongly condemed this censorship.
+
+- Moderately good news from Turkey where the **Istanbul Ten**, whom we [wrote about](https://www.securitywithoutborders.org/blog/2017/07/25/istanbul10.html) previously, have been [released on bail](http://www.dw.com/en/german-activist-peter-steudtner-returns-from-turkey-on-bail/a-41113789). They are still awaiting trial though, while the Chair of Amnesty International Turkey, Taner Kılıç, [remains in prison](https://www.amnesty.org/en/latest/news/2017/10/amnesty-turkey-chair-kept-in-jail/).
+
+- Bad news for **civil society in Afghanistan**, as well as anyone in the country who values their privacy: the government has told ISPs to [block](https://thewire.in/194329/afghanistan-block-whatsapp-telegram/) the use of WhatsApp and Telegram. It is unclear whether and to what extent ISPs have complied.
 
 ## Tools
 
-- Many high-risk users use various Google services, for example Gmail. Such users can now sign up for the company's free [Advanced Protection Program](https://landing.google.com/advancedprotection/), to seriously decrease the risks of a rogue account takeover, for example through phishing. One of the ways in which accounts are hardened is the use of a physical security key, which needs to be present before one can login. It is important to note that with added security comes added inconvenience, and certain ways of using Google (such as the use of external apps) will not be possible any more. For high-risk users, however, this is a compromise worth making.
+- Many high-risk users use various Google services, for example Gmail. Such users can now sign up for the company's free [Advanced Protection Program](https://landing.google.com/advancedprotection/), to seriously decrease the risks of a rogue account takeover, for example through phishing. One of the ways in which accounts are hardened is the use of a physical security key, which needs to be present before one can login. It is important to note that with added security comes added inconvenience, and certain ways of using Google (such as the use of external apps) will not be possible any more. For high-risk users, however, this is a compromise worth making, although it does require purchasing a physical device.
+If you are interested in the Program, you may want to read the [write-up](https://www.randhome.io/blog/2017/11/05/google-advanced-protection/) by Tek, one of the people behind SWB.
 
 ## Upcoming Events
 
