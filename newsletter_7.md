@@ -15,9 +15,11 @@ This is not the first time this newsletter warns of vulnerabilities in WordPress
 - Last month, a vulnerability was found in the protocol used for **encrypted WiFi connections**. The vulnerability, named [KRACK](https://www.krackattacks.com/), could allow someone who finds themselves close to the network to read the communication between a device and the WiFi router. The exploitability depends on the operating system and many vulnerable instances have been patched.
 Though this is fairly serious as vulnerabilities go, it cannot be exploited remotely. Moreover, relying on the encryption of your WiFi connection is a bad idea anyway, as this doesn't protect you from a hack into your router, or a rogue employee at an ISP. Therefore, regardless of whether your connection is vulnerable to KRACK, you should make sure that any connection the content of which is even mildly important is already encrypted, for example using HTTPS.
 
+- This summer a new attack vector was discovered that makes use of the **Bluetooth protocol**. While the attack would require an adversary to be near the targeted device, it is not to be ignored. Those with a [vulnerable device](https://www.armis.com/blueborne/#/devices) are urged to always make sure the latest security patches are installed, while it is also good practice to have Bluetooth turned off and only turn it on temporarily, when you need it, for example when you use an authentication device.
+
 ## Informative reading
 
-- The 2nd of November was the United Nations' [International Day to End Impunity for Crimes Against Journalists](https://en.unesco.org/endimpunity-2017). Journalists increasingly face digital threats and Citizen Lab, who have written various reports on such threats, [listed](https://citizenlab.ca/2017/11/international-end-impunity-crimes-journalists/) three separated cases of attacks against journalists and news organisations.
+- The 2nd of November was the United Nations' [International Day to End Impunity for Crimes Against Journalists](https://en.unesco.org/endimpunity-2017). **Journalists** increasingly face digital threats and Citizen Lab, who have written various reports on such threats, [listed](https://citizenlab.ca/2017/11/international-end-impunity-crimes-journalists/) three separated cases of attacks against journalists and news organisations.
 
 - The political situation in Catalonia has hed to various kinds of **censorship by the Spanish government**, who have seized the domain used by the Catalan regional government and raided the offices of the .cat registrar. In a [blog post](https://www.securitywithoutborders.org/blog/2017/09/27/catalonia.html), SWB strongly condemed this censorship.
 
@@ -25,14 +27,14 @@ Though this is fairly serious as vulnerabilities go, it cannot be exploited remo
 
 - Bad news for **civil society in Afghanistan**, as well as anyone in the country who values their privacy: the government has told ISPs to [block](https://thewire.in/194329/afghanistan-block-whatsapp-telegram/) the use of WhatsApp and Telegram. It is unclear whether and to what extent ISPs have complied.
 
+- Security company Volexity has published a [report](https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/) about new attacks by the OceanLotus group that have targeted various organisations in Southeast Asia, as well as **civil society in Vietnam**; for this reason it is believe the group is linked to the Vietnamese government. The attacks carried out by the group involved many compromised websites, fake tools that mimic legitimate ones, spearphishing and very detailed digital profiling and are yet again a reminder that activists around the world have to take their online security very seriously. 
+
 ## Tools
 
-- Many high-risk users use various Google services, for example Gmail. Such users can now sign up for the company's free [Advanced Protection Program](https://landing.google.com/advancedprotection/), to seriously decrease the risks of a rogue account takeover, for example through phishing. One of the ways in which accounts are hardened is the use of a physical security key, which needs to be present before one can login. It is important to note that with added security comes added inconvenience, and certain ways of using Google (such as the use of external apps) will not be possible any more. For high-risk users, however, this is a compromise worth making, although it does require purchasing a physical device.
+- Many high-risk users use various Google services, for example Gmail. Such users can now sign up for the company's free **[Advanced Protection Program](https://landing.google.com/advancedprotection/)**, to seriously decrease the risks of a rogue account takeover, for example through phishing. One of the ways in which accounts are hardened is the use of a physical security key, which needs to be present before one can login. It is important to note that with added security comes added inconvenience, and certain ways of using Google (such as the use of external apps) will not be possible any more. For high-risk users, however, this is a compromise worth making, although it does require purchasing a physical device.
 If you are interested in the Program, you may want to read the [write-up](https://www.randhome.io/blog/2017/11/05/google-advanced-protection/) by Tek, one of the people behind SWB.
 
-## Upcoming Events
-
-[to be added]
+- We have previously written about our **[Blockade node](https://securitywithoutborders.org/missions.html)** that adds anti-virus like capabilities to your web browsing in Chrome or Firefox. We have now added detection for the aforementioned OceanLotus operation to this node.
 
 Preferences: [LINK_PREFERENCES]  
 Unsubscribe: [LINK_UNSUBSCRIBE]  
